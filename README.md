@@ -40,7 +40,8 @@ I'm **Aman Choudhary**, currently working as an **Operations Executive at MyMone
 - I believe data can tell stories better than words ever could.
 - I love **working out 🏋️**, **traveling 🌍**, **chai ☕**, and **creating things that solve real-world problems**.
 
-![Solving](https://media.giphy.com/media/hV2fVYhFfB8xW/giphy.gif)
+![Growth](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFkcm81NmJ6Z2w5ZW4yNnVkM3RrMnJncXlvNGZlZXVpbnB2bmMybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufdipQqU2lhNA4g/giphy.gif)
+
 
 ---
 
