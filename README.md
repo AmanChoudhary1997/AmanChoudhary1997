@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my GitHub!
+ ## Hi there 👋 Welcome to my GitHub!
 
 I'm **Aman Choudhary**, currently working as an **Operations Executive at MyMoneyMantra**, and actively transitioning into the world of **Data Science and AI** 🚀
 
@@ -40,7 +40,7 @@ I'm **Aman Choudhary**, currently working as an **Operations Executive at MyMone
 - I believe data can tell stories better than words ever could.
 - I love **working out 🏋️**, **traveling 🌍**, **chai ☕**, and **creating things that solve real-world problems**.
 
-![WorkFlow](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
