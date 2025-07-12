@@ -2,7 +2,7 @@
 
 I'm **Aman Choudhary**, currently working as an **Operations Executive at MyMoneyMantra**, and actively transitioning into the world of **Data Science and AI** 🚀
 
-![Banner](https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif)
+![Analytics](https://github.com/AmanChoudhary1997/AmanChoudhary1997/assets/your-image-id/analytics-banner.gif)
 
 ### 💼 What I’m Doing
 - 🔭 Working at **MyMoneyMantra** where I manage operations, client portfolios, and reporting.
