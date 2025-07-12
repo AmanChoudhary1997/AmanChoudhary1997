@@ -1,16 +1,49 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHub!
 
-<!--
-**AmanChoudhary1997/AmanChoudhary1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Aman Choudhary**, currently working as an **Operations Executive at MyMoneyMantra**, and actively transitioning into the world of **Data Science and AI** 🚀
 
-Here are some ideas to get you started:
+![Banner](https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 What I’m Doing
+- 🔭 Working at **MyMoneyMantra** where I manage operations, client portfolios, and reporting.
+- 🌱 Currently learning and building projects in **Data Science**, **Machine Learning**, and **Analytics**.
+- 📊 Applying data skills to real-world business problems to make impactful decisions.
+
+### 🤝 Open to Collaborate
+- 🧠 Projects related to **Analytics**, **Machine Learning**, or **Digital Marketing** insights.
+- 📈 Interested in exploring **forecasting models**, **customer segmentation**, and **marketing analytics**.
+
+### 📜 Certification
+- ✅ Certified **Data Analyst** with hands-on experience in **Excel**, **Power BI**, **SQL**, and **Python**.
+
+### 💬 Ask Me About
+- Data Cleaning, Dashboarding, Business Reporting, and SQL Queries
+- Time Series Forecasting & Real-life Data Analysis Projects
+
+### 📫 Let's Connect
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/aman-choudhary-61a9361a0/)
+- 📧 Email: amanchoudhary0532@gmail.com
+
+### 👨‍💻 Tools & Tech I Use
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 😄 Pronouns
+- He/Him | Also go by **Mr._Choudhary**
+
+### ⚡ Fun Facts
+- I started learning Data Science *before* landing my first job – passion came first!
+- I believe data can tell stories better than words ever could.
+- I love **working out 🏋️**, **traveling 🌍**, **chai ☕**, and **creating things that solve real-world problems**.
+
+![WorkFlow](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
+---
+
+📍 *“The goal is to turn data into information, and information into insight.” – Carly Fiorina*
+
+Thanks for stopping by! Happy coding! 👨‍💻
