@@ -1,11 +1,11 @@
 ## Hi there 👋 Welcome to my GitHub!
 
-I'm **Aman Choudhary**, currently working as an **Operations Executive at MyMoneyMantra**, and actively transitioning into the world of **Data Science and AI** 🚀
+I'm **Aman Choudhary**, currently working as an **Operations Executive at Financial Institution**, and actively transitioning into the world of **Data Science and AI** 🚀
 
 ![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### 💼 What I’m Doing
-- 🔭 Working at **MyMoneyMantra** where I manage operations, client portfolios, and reporting.
+- 🔭 Working at **Financial Institution** where I manage operations, client portfolios, and reporting.
 - 🌱 Currently learning and building projects in **Data Science**, **Machine Learning**, and **Analytics**.
 - 📊 Applying data skills to real-world business problems to make impactful decisions.
 
