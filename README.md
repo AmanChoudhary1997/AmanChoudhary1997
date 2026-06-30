@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my GitHub!
 
-I'm **Aman Choudhary**, currently working as an **Operations Executive at Financial Institution**, and actively transitioning into the world of **Data Science and AI** 🚀
+I'm **Aman Choudhary**, currently working as an **Direct Sales Executive at Bandhan Bank**, and actively transitioning into the world of **Data Science and AI** 🚀
 
 ![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
