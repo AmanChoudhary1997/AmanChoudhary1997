@@ -1,9 +1,12 @@
-# Hi 👋, I'm Aman Choudhary
+
+<!-- ================= HEADER ================= -->
+
+<h1 align="center">Hi 👋, I'm Aman Choudhary</h1>
 
 <h3 align="center">MIS Executive @ Trailytics AI | Data Analytics Enthusiast | Aspiring Data Scientist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MIS+Executive+%40+Trailytics+AI;Marketing+%26+Campaign+Analytics;Turning+Data+into+Insights;Learning+Data+Science+%26+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MIS+Executive+%40+Trailytics+AI;Marketing+%26+Campaign+Analytics;Turning+Data+into+Insights;Learning+Data+Science+%26+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -44,7 +47,7 @@ I specialize in data management, campaign performance analysis, MIS reporting, a
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" alt="Tech Stack" />
 </p>
 
 <p align="center">
@@ -61,7 +64,7 @@ I specialize in data management, campaign performance analysis, MIS reporting, a
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AmanChoudhary1997&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AmanChoudhary1997&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanChoudhary1997&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -78,7 +81,7 @@ I specialize in data management, campaign performance analysis, MIS reporting, a
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanChoudhary1997&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanChoudhary1997&theme=tokyo-night&hide_border=true" alt="Contribution Activity" />
 </p>
 
 ---
@@ -98,14 +101,14 @@ I specialize in data management, campaign performance analysis, MIS reporting, a
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aman-choudhary-61a9361a0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/aman-choudhary-61a9361a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:amanchoudhary0532@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/AmanChoudhary1997">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
